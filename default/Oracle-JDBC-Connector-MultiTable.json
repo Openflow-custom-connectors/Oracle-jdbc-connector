@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1794331803439,
+    "description" : "",
+    "identifier" : "Oracle-JDBC-Connector-MultiTable",
+    "lastModifiedTimestamp" : 1794331803439,
+    "name" : "Oracle JDBC Connector - MultiTable",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
