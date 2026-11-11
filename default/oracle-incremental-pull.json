@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1794421512478,
+    "description" : "",
+    "identifier" : "oracle-incremental-pull",
+    "lastModifiedTimestamp" : 1794421512478,
+    "name" : "oracle incremental pull",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
